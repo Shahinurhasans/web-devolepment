@@ -15,8 +15,17 @@
 tr{
     color: blue;
     background-color: rgb(163, 226, 205);
+    text-align: center;
 }
 #t{
     text-align: center;
     background-color: red;
+ }
+
+ li{
+    text-align: left;
+  
+ }
+ #n{
+    background-color: gold;
  }
